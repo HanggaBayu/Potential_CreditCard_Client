@@ -1,4 +1,4 @@
-# Potential_CreditCard_Client
+# Potential_CreditCard_Customer
 
 This is a repository for filtering potential credit card client. This repository contains files created for a project for virtual internship BTPN Syariah X Rakamin
 
